@@ -1,6 +1,6 @@
 class: center, middle
 
-# 讲义题目
+Computational Linguistics
 
 &nbsp;
 &nbsp;
