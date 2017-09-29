@@ -16,7 +16,8 @@ class: center, middle
 # and you may contribute a verse.
 
 ---
-## 本讲内容
+## What is 
+Computational Linguistics?
 
 ### <font color="orangered">1. 第一部分</font> 
 
