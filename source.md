@@ -17,6 +17,7 @@ class: center, middle
 # That the powerful play goes on, 
 # and you may contribute a verse.
 
+
 ---
 ## What is __Computational Linguistics__?
 
