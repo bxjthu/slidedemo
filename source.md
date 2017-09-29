@@ -12,12 +12,13 @@ class: center, middle
 ** https://github.com/bxjthu **
 
 ---
+class: center, middle
+
 # That the powerful play goes on, 
 # and you may contribute a verse.
 
 ---
-## What is 
-Computational Linguistics?
+## What is *Computational Linguistics*?
 
 ### <font color="orangered">1. 第一部分</font> 
 
