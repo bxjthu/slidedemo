@@ -25,6 +25,9 @@ class: center, middle
 ### 2. 第二部分
 
 ### 3. 第三部分
++   Candy.
++   Gum.
++   Booze.
 
 ---
 
