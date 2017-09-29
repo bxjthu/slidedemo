@@ -18,7 +18,7 @@ class: center, middle
 # and you may contribute a verse.
 
 ---
-## What is *Computational Linguistics*?
+## What is __Computational Linguistics__?
 
 ### <font color="orangered">1. 第一部分</font> 
 
