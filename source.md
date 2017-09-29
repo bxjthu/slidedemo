@@ -12,8 +12,8 @@ class: center, middle
 ** https://github.com/bxjthu **
 
 ---
-That the powerful play goes on, 
-and you may contribute a verse.
+# That the powerful play goes on, 
+# and you may contribute a verse.
 
 ---
 ## 本讲内容
