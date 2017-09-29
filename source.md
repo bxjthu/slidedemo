@@ -12,7 +12,10 @@ class: center, middle
 ** https://github.com/bxjthu **
 
 ---
+That the powerful play goes on, 
+and you may contribute a verse.
 
+---
 ## 本讲内容
 
 ### <font color="orangered">1. 第一部分</font> 
