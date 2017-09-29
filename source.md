@@ -1,15 +1,15 @@
 class: center, middle
 
-Computational Linguistics
+# Computational Linguistics
 
 &nbsp;
 &nbsp;
 
-Xiaojing Bai 
-Tsinghua University
+** Xiaojing Bai **
+
+** Tsinghua University **
  
-
-主页: https://github.com/bxjthu
+** https://github.com/bxjthu **
 
 ---
 
