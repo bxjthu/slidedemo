@@ -5,9 +5,11 @@ Computational Linguistics
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+Xiaojing Bai 
+Tsinghua University
+ 
 
-主页: https://github.com/author
+主页: https://github.com/bxjthu
 
 ---
 
